@@ -1,0 +1,184 @@
+/* This gives me the option to use a custom font. */
+@font-face {
+  font-family: zelda;
+  src: url(./additional-files/The\ Wild\ Breath\ of\ Zelda.otf);
+}
+/* This section makes things look even in all browsers */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 75.0%;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "zelda", sans-serif;
+  font-size: 1.4rem;
+  line-height: 1.5;
+  background-image: url(./images/background.jpg);
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  width: 100vw;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: scale 0.5s, background-color 0.5s;
+}
+
+img:hover {
+  scale: 1.15;
+}
+
+.player-text {
+font-family: "Macondo", sans-serif
+}
+
+.cpu-text {
+  font-family: "Macondo", sans-serif
+  }
+
+.player-pick {
+  font-family: "Macondo", sans-serif;
+  font-weight: bold;
+  
+}
+
+.cpu-pick {
+  font-family: "Macondo", sans-serif;
+  font-weight: bold;
+}
+
+
+.player-active {
+  background-color: lightgreen;
+  border-radius: 50%;
+  border: 0.4rem solid black;
+  transition: background-color 0.8s linear;
+}
+
+.cpu-active {
+  background-color: palevioletred;
+  border-radius: 50%;
+  border: 0.4rem solid black;
+  transition: background-color 0.7s linear;
+}
+
+.icon {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  max-height: 50vh;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.player-active.cpu-active {
+  background-color: lightgreen;
+  border-radius: 35%;
+  border: 0.4rem solid black
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 15rem;
+  padding: 12rem;
+  gap: 0.5rem;
+}
+
+h1 {
+  font-size: 5.0rem;
+  padding-top: 0.8em;
+  color: black;
+  border-bottom: black double;
+}
+
+h2 {
+  font-family: "Macondo", serif;
+  font-size: 2.5rem;
+  padding-top: 0.4rem;
+  color: turquoise;
+}
+
+.score {
+  display: flex;
+  gap: 3rem;
+  text-align: center;
+  font-size: 1.8rem;
+  padding-top: 5rem;
+  padding-bottom: 2rem;
+}
+
+.player-score {
+  font-weight: 700;
+  font-size: 2.3rem;
+  color: lawngreen;
+}
+
+.cpu-score {
+  font-weight: 700;
+  font-size: 2.3rem;
+  color: palevioletred;
+}
+
+.round {
+  display: flex;
+  gap: 0.5rem;
+  font-size: 2.0rem;
+  font-weight: 400;
+  border-bottom: black double;
+  margin-bottom: 4rem;
+}
+
+.game {
+  display: flex;
+  flex-direction: column;
+  flex: 1 0 auto;
+}
+
+.gameplay {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 1.5rem;
+}
+
+.selection-container {
+  display: flex;
+  text-align: center;
+  font-size: 1.8rem;
+}
+
+.selection {
+  display: flex;
+  justify-items: center;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  margin-top: auto;
+  height: 6rem;
+
+}
+
+
