@@ -1,4 +1,5 @@
 (function () { 
+   
 
 /* I am choosing to keep using Rock, Paper, Scissors as variables, as I decided on the Zelda theme during the design phase.  */
 

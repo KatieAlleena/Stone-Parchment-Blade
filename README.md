@@ -8,8 +8,9 @@ Change Log:
 12/20/2022 -- Decided to change to Legend of Zelda Theme
 12/30/2022 -- Initial Commit / creation of github repo
 12/31/2022 -- Upload of project, using temp images while awaiting art assets to be completed.
+1/2/2023 -- finished art assets, added them & fixed styles.
 
-Live Version: https://katiealleena.github.io/Stone-Parchment-Blade/
+Live Version: (https://katiealleena.github.io/Stone-Parchment-Blade/)
 
 Instructions: 
 
@@ -58,21 +59,23 @@ Resources & References:
 8. https://www.w3schools.com/css/css_border.asp
 9. https://www.w3schools.com/cssref/pr_font_weight.php
 10. https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units
+11. https://www.w3schools.com/css/css3_images.asp
+12. https://www.w3schools.com/css/css_tooltip.asp
 (Some CSS resources and reminders)
 
-11. https://www.geeksforgeeks.org/rock-paper-and-scissor-game-using-javascript/
-12. https://www.youtube.com/watch?v=n1_vHArDBRA
-13. https://eloquentjavascript.net/15_event.html
-14. https://www.youtube.com/watch?v=RwFeg0cEZvQ
-15. https://stackoverflow.com/questions/17976883/rock-paper-scissors-in-javascript
-16. https://betterprogramming.pub/7-ways-to-code-rock-paper-scissors-in-javascript-4189a5e7e535
-17. https://codereview.stackexchange.com/questions/276508/rock-paper-and-scissors-game
+13. https://www.geeksforgeeks.org/rock-paper-and-scissor-game-using-javascript/
+14. https://www.youtube.com/watch?v=n1_vHArDBRA
+15. https://eloquentjavascript.net/15_event.html
+16. https://www.youtube.com/watch?v=RwFeg0cEZvQ
+17. https://stackoverflow.com/questions/17976883/rock-paper-scissors-in-javascript
+18. https://betterprogramming.pub/7-ways-to-code-rock-paper-scissors-in-javascript-4189a5e7e535
+19. https://codereview.stackexchange.com/questions/276508/rock-paper-and-scissors-game
 
 (Some resources for understanding the game itself in Javascript.)
 
-18. https://icons8.com/icon/17465/triforce
-19. http://botw-recipes.com/
-20. https://www.instagram.com/artofkatiealleena/
+20. https://icons8.com/icon/17465/triforce
+21. http://botw-recipes.com/
+22. https://www.instagram.com/artofkatiealleena/
 (Image assets used from other sources)
 
 
