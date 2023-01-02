@@ -51,6 +51,9 @@ Added more work for myself in having to create art.
 I don't know where to begin to show a second victory or loss screen. 
 I have been able to manage this all on one screen for now.
 
+In a tie/draw, I am unsure how to make the selection background blue like the text. 
+I think that would best signify a tie? 
+At the moment the text tells us, but I'd like to look into that more. 
 
 Resources & References: 
 1. <a href="https://www.w3schools.com/tags/att_script_defer.asp" target="_blank">https://www.w3schools.com/tags/att_script_defer.asp</a>
