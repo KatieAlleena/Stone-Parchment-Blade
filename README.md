@@ -1,6 +1,8 @@
 <pre>
 # Stone-Parchment-Blade
-Final Project for CanCode's Javascript Fundamentals Class. It's a Legend of Zelda themed Rock, Paper, Scissors game done in JavaScript, HTML, and CSS!
+Final Project for CanCode's Javascript Fundamentals Class. 
+It's a Legend of Zelda themed Rock, Paper, Scissors game 
+done in JavaScript, HTML, and CSS!
 
 
 Change Log:
@@ -8,7 +10,8 @@ Change Log:
 12/20/2022 -- Decided to change to Legend of Zelda Theme
 12/30/2022 -- Initial Commit / creation of github repo
 12/31/2022 -- Upload of project, using temp images while awaiting art assets to be completed.
-1/2/2023 -- finished art assets, added them & fixed styles. Added a secret which opens in a new tab for some background tunes.
+1/2/2023 -- finished art assets, added them & fixed styles. 
+Added a secret which opens in a new tab for some background tunes.
 
 Live Version: <a href="https://katiealleena.github.io/Stone-Parchment-Blade/" target="_blank">https://katiealleena.github.io/Stone-Parchment-Blade/</a>
 
@@ -20,7 +23,9 @@ Stone crushes Blade
 Parchment covers Stone
 Blade slices Paper
 
-On launch, click your choice! The computer will pick something random and you'll be informed if you've won, lost or tied that round. 
+On launch, click your choice! 
+The computer will pick something random.
+You'll be informed if you've won, lost or tied that round. 
 
 On a win, you get 1 point.
 On a lose, the CPU gets 1 point.
@@ -35,13 +40,16 @@ Regardless of outcome, simply click your next choice to reset the scores and pla
 ***
 
 Difficulties: 
-Had to research how to make the computer make choices by itself. We used math.floor in hangman so it was kinda familiar a little bit. 
+Had to research how to make the computer make choices by itself. 
+We used math.floor in hangman so it was kinda familiar a little bit. 
 
 Forgot a few CSS tricks. Had to spend a chunk of time researching! 
 
-Changed theme from boring old rock paper scissors to Zelda Theme. Added more work for myself in having to create art.
+Changed theme from boring old rock paper scissors to Zelda Theme. 
+Added more work for myself in having to create art.
 
-I don't know where to begin to show a second victory or loss screen. I have been able to manage this all on one screen for now.
+I don't know where to begin to show a second victory or loss screen. 
+I have been able to manage this all on one screen for now.
 
 
 Resources & References: 
