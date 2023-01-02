@@ -8,7 +8,7 @@ Change Log:
 12/20/2022 -- Decided to change to Legend of Zelda Theme
 12/30/2022 -- Initial Commit / creation of github repo
 12/31/2022 -- Upload of project, using temp images while awaiting art assets to be completed.
-1/2/2023 -- finished art assets, added them & fixed styles.
+1/2/2023 -- finished art assets, added them & fixed styles. Added a secret which opens in a new tab for some background tunes.
 
 Live Version: <a href="https://katiealleena.github.io/Stone-Parchment-Blade/" target="_blank">https://katiealleena.github.io/Stone-Parchment-Blade/</a>
 
