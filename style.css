@@ -181,13 +181,13 @@ footer {
 
 }
 
-.tooltip {
+.secret {
 
   position: relative;
   display: inline-block;
 }
 
-.tooltip .textbox {
+.secret .textbox {
   visibility: hidden;
   width: 120px;
   background-color: darkgray;
@@ -199,7 +199,7 @@ footer {
   left: 105%;
 }
 
-.tooltip:hover .textbox {
+.secret:hover .textbox {
   visibility: visible;
 }
 
