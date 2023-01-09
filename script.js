@@ -70,6 +70,7 @@ const updateDisplay = (playerChoice, cpu) => {
 };
 
 // This changes the text depending on choice results.
+
 const compareSelection = (playerChoice) => {
    const cpu = getComputerChoice();
    updateDisplay(playerChoice, cpu);
