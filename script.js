@@ -119,7 +119,7 @@ const loseRound = () => {
    }
 };
 
-// resets the game with either result
+// resets the game with either result.
 
 const resetGame = () => {
    if (playerScoreNumber === 5) {

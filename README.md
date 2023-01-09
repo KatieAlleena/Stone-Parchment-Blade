@@ -12,6 +12,7 @@ Change Log:
 12/31/2022 -- Upload of project, using temp images while awaiting art assets to be completed.
 1/2/2023 -- finished art assets, added them & fixed styles. 
 Added a secret which opens in a new tab for some background tunes.
+1/9/2023 -- Final changes.
 
 Live Version: <a href="https://katiealleena.github.io/Stone-Parchment-Blade/" target="_blank">https://katiealleena.github.io/Stone-Parchment-Blade/</a>
 
